@@ -1,4 +1,4 @@
-# it-566-computer-scripting
+# it-566-computer-scripting 
 ```
 Example repository for IT-566: Computer Scripting Techniques 
 Marymount University
@@ -11,4 +11,6 @@ Fall 2022
 - Presentations
 - Example Bash scripts
 - Example Python programs
+
+## modified by Laila
 
